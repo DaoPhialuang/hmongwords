@@ -13,6 +13,17 @@
 
     var suab = new Audio("audio/suab.wav");
     twm.play();
+
+    //double consonant sound
+
+    var suab = new Audio("audio/tsov.wav");
+    twm.play();
+
+    var suab = new Audio("audio/phom.wav");
+    twm.play();
+
+    var suab = new Audio("audio/nyuj.wav");
+    twm.play();
        
        
        
