@@ -54,19 +54,25 @@ header ul li a {
     width: 100%;
     margin-left: 30px;
 }
+.NtawvIbTug{
+    
+    font-weight: bold;
+    color: coral;
+}
 figure.item{
   
-   
+   margin-top: 60px;
+   margin-bottom: 70px;
     /* To correctly align image, regardless of content height: */
     vertical-align: top;
     display: inline-block;
     /* To horizontally center images and caption */
     text-align: center;
     /* The width of the container also implies margin around the images. */
-    width: 250px;
+    width: 350px;
 }
 img{
-    margin-top: 30px;
+   
     width: 300px;
     height: 350x;
 }
@@ -75,8 +81,9 @@ img{
     font-size: 40px;
 }
 .section3{
+    margin-left: 30px;
     display: inline-block;
     min-height: 50vh;
-    background-color: rgb(240, 191, 126);
+    background-color: #fff;
     width: 100%;
 }
