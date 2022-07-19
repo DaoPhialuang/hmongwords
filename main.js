@@ -1,18 +1,18 @@
 
-    var audios = new Audio("audio/paj.wav");
-    audios.play();
+    var paj = new Audio("audio/paj.wav");
+    paj.play();
 
     var twm = new Audio("audio/twm.wav");
     twm.play();
     
     var xauv = new Audio("audio/xauv.wav");
-    twm.play();
+    xauv.play();
 
     var kos = new Audio("audio/kos.wav");
-    twm.play();
+    kos.play();
 
     var suab = new Audio("audio/suab.wav");
-    twm.play();
+    suab.play();
 
     var dev = new Audio("audio/dev.wav");
     dev.play();
