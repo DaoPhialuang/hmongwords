@@ -86,14 +86,15 @@ img{
 }
 .dropdown{
     font-size: 80px;
-    display:none ;
+    display:none;
     position: absolute;
     background-color: #fff;
     min-width: 160px;
     padding: 8px 12px;
     z-index: 1;
   
-}
+} 
+
 .item:hover .dropdown{
     display: contents;
 }
