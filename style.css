@@ -15,14 +15,11 @@
     background-color: #fff;
 }
 header{
-    position: absolute;
-    top:0;
-    left: 0;
-    width: 100%;
-    padding: 20px 100px;
+    background-color: #f3f3f3;
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    align-items: baseline;
+    padding: .5rem;
+    gap: 1rem;
 }
 header .logo{
     position: relative;
