@@ -5,7 +5,7 @@
     font-family: 'Poppins', sans-serif;
 }
 
-header{
+.header{
     background-color: #0a0a0a;
     display: flex;
     align-items: baseline;
@@ -20,7 +20,7 @@ header .logo{
     background:none;
     border: none;
     text-decoration: none;
-    color: #777;
+    color: rgb(0, 0, 0);
     font-family: inherit;
     cursor: pointer;
     padding:0;
